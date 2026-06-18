@@ -1,3 +1,3 @@
-# My GPT
+# MiniGPT
 
 > Tự học LLMS từ đầu
