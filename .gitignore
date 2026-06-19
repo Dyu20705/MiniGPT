@@ -22,3 +22,9 @@ Thumbs.db
 
 # Pluto temporary files
 .pluto/
+
+.agents/
+
+docs/quy-trinh/
+notebooks/gpt_dev.ipynb
+test-promt.txt
