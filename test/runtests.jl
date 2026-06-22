@@ -123,3 +123,5 @@ end
     @test_throws ArgumentError get_batch(ids; context_length = 16, batch_size = 0)
     @test_throws ArgumentError get_batch(ids[1:16]; context_length = 16, batch_size = 4)
 end
+
+include("test_count_models.jl")
