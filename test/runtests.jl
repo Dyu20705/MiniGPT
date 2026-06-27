@@ -125,3 +125,4 @@ end
 end
 
 include("test_count_models.jl")
+include("test_neural_bigram.jl")
